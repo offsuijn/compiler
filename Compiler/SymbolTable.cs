@@ -4,7 +4,7 @@ Hashtable Implementation (STsize  = 1000)
 =========================================
 
 
-Programmer  :    Choi, Byougju 
+
 
 Date		:	dd, mm , yyyy 
 
